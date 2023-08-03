@@ -35,7 +35,7 @@ The Student Admission Management System is a web application that allows users t
 2. Make sure you have Node.js installed.
 3. Navigate to the `frontend` directory.
 4. [review to this page and setup required dependencies.](https://tailwindcss.com/docs/guides/vite)
-5. Start the development server using `npm start`.
+5. Start the development server using `npm run dev`.
 
 ### Backend
 
